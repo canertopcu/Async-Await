@@ -1,8 +1,5 @@
-# Async-Await Readme
-
-
-# Unity Game Code README
-
+# Async-Await README
+ 
 This repository contains three primary scripts and one interface for a Unity game:
 
 1. **GameLogic.cs**: This script manages the game logic and player interactions.
